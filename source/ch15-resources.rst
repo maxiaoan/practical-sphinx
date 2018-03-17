@@ -1,2 +1,2 @@
-Chapter 15 Resources
-====================
+15 Resources
+============

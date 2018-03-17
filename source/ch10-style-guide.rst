@@ -1,2 +1,2 @@
-Chapter 10 Style guide
-======================
+10 Style guide
+==============

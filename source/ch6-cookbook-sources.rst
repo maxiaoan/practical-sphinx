@@ -1,2 +1,3 @@
-Chapter 6 Cookbook: Sources
-===========================
+6 Cookbook: Sources
+===================
+

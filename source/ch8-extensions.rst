@@ -1,2 +1,2 @@
-Chapter 8 Cookbook: extensions
-==============================
+8 Cookbook: extensions
+======================

@@ -1,2 +1,2 @@
-Chapter 7 Cookbook: configuration
-=================================
+7 Cookbook: configuration
+=========================

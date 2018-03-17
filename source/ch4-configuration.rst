@@ -1,2 +1,2 @@
-Chapter 4 Configuration
-=======================
+4 Configuration
+===============

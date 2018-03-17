@@ -1,2 +1,2 @@
-Chapter 9 Cookbook: themes
-==========================
+9 Cookbook: themes
+==================

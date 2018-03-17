@@ -1,2 +1,2 @@
-Chapter 14 Javascript and interativity
-======================================
+14 Javascript and interactivity
+===============================

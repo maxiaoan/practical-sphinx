@@ -1,5 +1,5 @@
-Chapter 3 Sources
-=================
+3 Sources
+=========
 
 reStructuredText
 ----------------

@@ -1,5 +1,5 @@
-Chapter 5
-=========
+5 Themes and style
+==================
 
 Themes
 ------
