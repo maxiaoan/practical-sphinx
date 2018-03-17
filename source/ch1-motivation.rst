@@ -1,2 +1,4 @@
-Chapter 1
-=========
+Chapter 1 Motivation
+====================
+
+*Make lemonade from lemons*

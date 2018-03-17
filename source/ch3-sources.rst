@@ -1,2 +1,14 @@
-Chapter 3
-=========
+Chapter 3 Sources
+=================
+
+reStructuredText
+----------------
+
+Markdown
+--------
+
+Jupyter Notebooks
+-----------------
+
+The Swiss Army tool: pandoc
+---------------------------

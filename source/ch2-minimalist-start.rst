@@ -1,2 +1,17 @@
-Chapter 2
-=========
+Chapter 2 Minimalist Guide to Getting Started
+=============================================
+
+Install
+-------
+
+Add content
+-----------
+
+Configure
+---------
+
+Build
+-----
+
+Serve
+-----
