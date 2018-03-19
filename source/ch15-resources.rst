@@ -1,6 +1,15 @@
 Resources
 =========
 
+Motivation
+----------
+
+- papers academic
+- jacob kaplan moss
+- anne gentle docs like code
+- eric holscher blog
+
+
 
 Sources
 -------
