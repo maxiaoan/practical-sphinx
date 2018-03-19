@@ -39,6 +39,41 @@ Solution
 Discussion
 ~~~~~~~~~~
 
+How do I add lists?
+-------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Discussion
+~~~~~~~~~~
+
+How do I highlight code, filenames?
+-----------------------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Discussion
+~~~~~~~~~~
+
+How do I add code blocks for different programming languages?
+-------------------------------------------------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Discussion
+~~~~~~~~~~
 
 How do I use Jupyter notebooks as sources?
 ------------------------------------------
@@ -98,8 +133,8 @@ Solution
 Discussion
 ~~~~~~~~~~
 
-How do I convert images?
-------------------------
+How do I convert images to save space and load quickly?
+-------------------------------------------------------
 
 Problem
 ~~~~~~~
@@ -111,3 +146,27 @@ Discussion
 ~~~~~~~~~~
 
 imagemagick
+
+How do I modify sources for accessibility?
+------------------------------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Discussion
+~~~~~~~~~~
+
+How do I modify sources for internationalization?
+-------------------------------------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Discussion
+~~~~~~~~~~
