@@ -75,6 +75,32 @@ Solution
 Discussion
 ~~~~~~~~~~
 
+What is a directive? How do I add warnings boxes, tip boxes?
+------------------------------------------------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Discussion
+~~~~~~~~~~
+
+I would like to include text quoted from another source. How do I do that?
+--------------------------------------------------------------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Use `>`
+
+Discussion
+~~~~~~~~~~
+
 How do I use Jupyter notebooks as sources?
 ------------------------------------------
 
