@@ -13,23 +13,19 @@ Practical Sphinx
    part1-idea-doc
    ch1-motivation
    ch2-minimalist-start
-   part2-ingredients
-   ch3-sources
-   ch4-configuration
-   ch5-themes-styling
-   part3-cookbook
+   part2-cookbook
    ch6-cookbook-sources
    ch7-configuration
    ch8-extensions
    ch9-themes
-   part4-workflow
+   part3-workflow
    ch10-style-guide
    ch11-updates
    ch12-testing
    ch13-serve-docs
-   part5-apis
+   part4-apis
    ch14-javascript
-   part6-continuous-improvement
+   part5-continuous-improvement
    ch15-resources
    ch16-community
 
