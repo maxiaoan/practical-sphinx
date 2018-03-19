@@ -1,5 +1,5 @@
-Cookbook: themes
-================
+Themes
+======
 
 alabaster
 ---------

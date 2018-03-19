@@ -1,5 +1,5 @@
-Cookbook: Sources
-=================
+Sources
+=======
 
 How to decide whether to use reStructuredText or Markdown?
 ----------------------------------------------------------

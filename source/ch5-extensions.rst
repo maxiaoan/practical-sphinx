@@ -1,5 +1,5 @@
-Cookbook: extensions
-====================
+Extensions
+==========
 
 Found confusing when I was getting started.
 

@@ -1,2 +1,12 @@
-Updates and changes
-===================
+Workflow
+========
+
+
+Editor
+------
+
+Folder structure
+----------------
+
+SHA of commit
+-------------

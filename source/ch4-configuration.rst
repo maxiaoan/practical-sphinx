@@ -1,5 +1,5 @@
-Cookbook: configuration
-=======================
+Configuration
+=============
 
 Python code
 
