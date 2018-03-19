@@ -11,7 +11,7 @@ Practical Sphinx
    :caption: Contents:
    :numbered:
 
-
+   preface
    ch1-motivation
    ch2-minimalist-start
    ch3-sources
