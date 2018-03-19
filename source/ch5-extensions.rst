@@ -1,2 +1,2 @@
-5. Cookbook: extensions
-=======================
+Cookbook: extensions
+====================

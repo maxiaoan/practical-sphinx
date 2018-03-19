@@ -1,3 +1,3 @@
 ================================
-*Part 6: Continuous Improvement*
+*Part 5: Continuous Improvement*
 ================================

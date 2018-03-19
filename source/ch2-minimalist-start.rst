@@ -1,5 +1,5 @@
-2 Minimalist Guide to Getting Started
-=====================================
+Minimalist Guide to Getting Started
+===================================
 
 Install
 -------

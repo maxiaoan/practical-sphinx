@@ -1,4 +1,4 @@
-1 Motivation
-============
+Motivation
+==========
 
 *Make lemonade from lemons*

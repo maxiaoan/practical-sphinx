@@ -1,2 +1,2 @@
-15 Resources
-============
+Resources
+=========

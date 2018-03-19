@@ -1,2 +1,2 @@
-10 Style guide
-==============
+Style guide
+===========

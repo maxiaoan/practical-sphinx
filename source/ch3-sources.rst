@@ -1,8 +1,8 @@
-3. Cookbook: Sources
-====================
+Cookbook: Sources
+=================
 
-3.1 How to decide whether to use reStructuredText or Markdown?
---------------------------------------------------------------
+How to decide whether to use reStructuredText or Markdown?
+----------------------------------------------------------
 
 Problem
 ~~~~~~~
@@ -15,8 +15,8 @@ Use both.
 Discussion
 ~~~~~~~~~~
 
-3.1 How do I do common formatting (bold, italics) in rst and md?
-----------------------------------------------------------------
+How do I do common formatting (bold, italics) in rst and md?
+------------------------------------------------------------
 
 Problem
 ~~~~~~~
@@ -27,8 +27,8 @@ Solution
 Discussion
 ~~~~~~~~~~
 
-3.2 Headings
-------------
+How do I add headings of different levels?
+------------------------------------------
 
 Problem
 ~~~~~~~
@@ -40,18 +40,23 @@ Discussion
 ~~~~~~~~~~
 
 
+How do I use Jupyter notebooks as sources?
+------------------------------------------
 
-reStructuredText
-----------------
+Problem
+~~~~~~~
 
-Markdown
---------
+Solution
+~~~~~~~~
 
-Jupyter Notebooks
------------------
+Discussion
+~~~~~~~~~~
 
-3.3 I've started using Markdown but now I want to switch to reStructuredText?
-------------------------------------------------------------------------------
+nbsphinx, nbconvert
+
+
+I've started using Markdown but now I want to switch to reStructuredText?
+-------------------------------------------------------------------------
 
 Problem
 ~~~~~~~
@@ -67,5 +72,42 @@ recommonmark
 pandoc
 
 
-The Swiss Army tool: pandoc
----------------------------
+What is pandoc? When should I use it?
+-------------------------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Discussion
+~~~~~~~~~~
+
+converting sources
+
+How do I include images?
+------------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Discussion
+~~~~~~~~~~
+
+How do I convert images?
+------------------------
+
+Problem
+~~~~~~~
+
+Solution
+~~~~~~~~
+
+Discussion
+~~~~~~~~~~
+
+imagemagick

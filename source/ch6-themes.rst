@@ -1,5 +1,5 @@
-6. Cookbook: themes
-===================
+Cookbook: themes
+================
 
 Themes
 ------
