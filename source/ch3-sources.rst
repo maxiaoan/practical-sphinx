@@ -1,6 +1,13 @@
 Sources
 =======
 
+What common Markup languages should I use?
+------------------------------------------
+- reStructuredText
+- Markdown
+- Jupyter notebooks
+- LaTEX
+
 How to decide whether to use reStructuredText or Markdown?
 ----------------------------------------------------------
 

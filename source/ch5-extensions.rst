@@ -8,6 +8,11 @@ autodoc
 
 go through the docstrings
 
+autosummary
+-----------
+
+goes with autodoc
+
 intersphinx
 -----------
 
@@ -27,6 +32,17 @@ todo
 ----
 
 not one that I use but some like it
+
+nbsphinx
+--------
+convert notebooks
+
+sphinx gallery
+--------------
+
+plots
+
+
 
 write your own extensions
 -------------------------
